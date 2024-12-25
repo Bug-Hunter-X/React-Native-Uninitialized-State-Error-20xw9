@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable before it has been initialized. This often happens when you use the state variable inside a render method before React has had a chance to set the initial state value.
